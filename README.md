@@ -1,4 +1,4 @@
-# todo
+# Basic Todo List built with Vue.js
 
 ## Project setup
 ```
